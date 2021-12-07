@@ -1,5 +1,9 @@
 # CSGY9223-Dining_Concierge_Chatbot
-
+  
+## Architecture  
+![image](https://github.com/ericleee0119/Dining_Concierge_Chatbot/blob/main/image/6.PNG)  
+  
+## Demo  
 Demo Video: Click the below image will link to the demo video, the demo video contains the extra credit demo  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NLe95TTdi3c/0.jpg)](https://www.youtube.com/watch?v=NLe95TTdi3c)  
 
